@@ -1,0 +1,13 @@
+#spring:
+#  profiles: sandbox
+#
+#  datasource:
+#    driver-class-name: org.postgresql.Driver
+#    url: jdbc:postgres://pfcsxlya:LsBkS8rX4ZP8kWkUpEBSMDqI9DFDDDfw@suleiman.db.elephantsql.com:5432/pfcsxlya
+#    username: pfcsxlya
+#    password: LsBkS8rX4ZP8kWkUpEBSMDqI9DFDDDfw
+#    tomcat:
+#      max-active: 2
+#
+#  jpa:
+#    generate-ddl: true
